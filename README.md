@@ -1,5 +1,5 @@
 
-<div align="center"> <img src="https://github.com/iamnkr67/iamnkr67/blob/main/image.png"> </div>
+<div align="center"> <img src="Make your README.png"> </div>
 <!-- <h3 align="center">Passionate coder and lifelong learner on a quest to explore the realms of programming.</h3> -->
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
