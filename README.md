@@ -3,7 +3,7 @@
 <!-- <h3 align="center">Passionate coder and lifelong learner on a quest to explore the realms of programming.</h3> -->
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamnkr67&label=Profile%20views&color=0e75b6&style=flat" alt="iamnkr67" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wedev001&label=Profile%20views&color=0e75b6&style=flat" alt="iamnkr67" /> </p>
 
 - 🔭 I’m currently working on [Web Development](https://github.com/wedev001/WebDev_Repo_BEG-ADV)
 
