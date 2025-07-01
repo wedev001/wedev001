@@ -20,8 +20,9 @@
 <h3 align="left">Live Projects : </h3>
 
 <ol>
-<li><a href="https://iamnkr67.github.io/ToDo-App/" target="_blank"> ToDO APP </a></li>
-  <li><a href="https://iamnkr67.github.io/Calculator/" target="_blank"> Calculator </a> </li>
+<li><a href="https://notionizetask.vercel.app/" target="_blank"> Notionize </a></li>
+  <li><a href="https://portfolia-website.onrender.com/" target="_blank">PortFolio Website</a> </li>
+  <li><a href="https://cuengage.vercel.app/" target="_blank">CU-Engage</a> </li>
 </ol>
 
 
