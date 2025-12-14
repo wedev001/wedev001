@@ -3,7 +3,7 @@
 <!-- <h3 align="center">Passionate coder and lifelong learner on a quest to explore the realms of programming.</h3> -->
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wedev001&label=Profile%20views&color=0e75b6&style=flat" alt="iamnkr67" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wedev001&label=Profile%20views&color=0e75b6&style=flat" alt="wedev001" /> </p>
 
 - 🔭 I’m currently working on [Web Development](https://github.com/wedev001/WebDev_Repo_BEG-ADV)
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/surajdev420/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamnkr" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/surajdev420/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wedev001" height="30" width="40" /></a>
 <a href="https://instagram.com/suraaaaaj_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamnkr67" height="30" width="40" /></a>
 <h3 align="left">Live Projects : </h3>
 
