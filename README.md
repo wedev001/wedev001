@@ -12,7 +12,7 @@
 
 [![B.E. Computer Science](https://img.shields.io/badge/B.E.%20Computer%20Science-Chitkara%20University-667eea?style=for-the-badge)](https://www.chitkara.edu.in/)
 [![Google Cloud Certified](https://img.shields.io/badge/Google%20Cloud%20Certified-Data%20Analytics-4285F4?style=for-the-badge)](https://cloud.google.com/)
-[![Based in New Delhi](https://img.shields.io/badge/Based%20in-Bangalore%2C%20India-FF6B6B?style=for-the-badge)](https://www.bangalore.gov.in/)
+[![Based in New Delhi](https://img.shields.io/badge/Based%20in-New-Delhi%2C%20India-FF6B6B?style=for-the-badge)](https://www.bangalore.gov.in/)
 
 <a href="https://wedev001.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
