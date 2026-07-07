@@ -12,7 +12,7 @@
 
 [![B.E. Computer Science](https://img.shields.io/badge/B.E.%20Computer%20Science-Chitkara%20University-667eea?style=for-the-badge)](https://www.chitkara.edu.in/)
 [![Google Cloud Certified](https://img.shields.io/badge/Google%20Cloud%20Certified-Data%20Analytics-4285F4?style=for-the-badge)](https://cloud.google.com/)
-[![Based in Bangalore](https://img.shields.io/badge/Based%20in-Bangalore%2C%20India-FF6B6B?style=for-the-badge)](https://www.bangalore.gov.in/)
+[![Based in New Delhi](https://img.shields.io/badge/Based%20in-Bangalore%2C%20India-FF6B6B?style=for-the-badge)](https://www.bangalore.gov.in/)
 
 <a href="https://wedev001.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/surajdev420">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:surajdev420@gmail.com">
+<a href="mailto:webdev.2301@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://github.com/wedev001">
@@ -167,8 +167,8 @@ Real-time collaborative task management application with drag-and-drop functiona
 
 ## 💼 Professional Experience
 
-### Full-Stack Developer | **WizCommerce**
-**Jan 2023 - Dec 2023** | Bangalore, India
+### Software Developer Intern | **WizCommerce**
+**July 2025 - June 2026** | Bangalore, India
 
 Engineered and maintained multi-tenant B2B e-commerce platforms serving 30+ live production storefronts with complex business logic and enterprise-grade reliability standards.
 
@@ -266,18 +266,6 @@ Engineered and maintained multi-tenant B2B e-commerce platforms serving 30+ live
 
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/wedev001/wedev001/raw/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
 ```yaml
@@ -312,7 +300,7 @@ Open To:
 
 <div align="center">
 
-<a href="mailto:surajdev420@gmail.com">
+<a href="mailto:webdev.2301@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 <a href="https://linkedin.com/in/surajdev420">
