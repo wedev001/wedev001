@@ -228,11 +228,11 @@ Engineered and maintained multi-tenant B2B e-commerce platforms serving 30+ live
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<!-- <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wedev001&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&text_color=ffffff&title_color=667eea)
 
-</div>
+</div> -->
 
 <div align="center">
 
@@ -240,23 +240,22 @@ Engineered and maintained multi-tenant B2B e-commerce platforms serving 30+ live
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wedev001&theme=midnight-purple&layout=compact&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=667eea)
 
-</div>
+</div> -->
 
 ---
 
-## 🏅 GitHub Trophies
 
-<div align="center">
+
+<!-- <div align="center">
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=wedev001&theme=midnight&column=7&margin-w=15&margin-h=15)
 
-</div>
+</div> -->
 
----
 
 ## 📈 Contribution Graph
 
