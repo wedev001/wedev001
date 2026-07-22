@@ -170,7 +170,7 @@ Real-time collaborative task management application with drag-and-drop functiona
 ## 💼 Professional Experience
 
 ### Software Developer Intern | **WizCommerce**
-**July 2025 - June 2026** | Bangalore, India
+**July 2025 - June 2026** | Gurugran,Haryana, India
 
 Engineered and maintained multi-tenant B2B e-commerce platforms serving 30+ live production storefronts with complex business logic and enterprise-grade reliability standards.
 
